@@ -37,9 +37,9 @@ This week we keep practicing our TD moves and we will gradually get into the the
 | Time          | Desc                           |
 | ------------- | ------------------------------ |
 | 09:00 - 09:15 | Hi :wave:                      |
-| 09:15 - 09:30 | Leas Workshop                  |
-| 09:30 - 11:15 | Workshop                       |
-| 11:15 - 12:00 | TD Input (Q&A)                 |
+| 09:15 - 10:30 | Input: «Exhaustion» and Methods of Making Visible        |       
+| 10.45 - 11:15 | Fields of Exhaustion           |
+| 11:15 - 12:00 | Workshop TBA                   |
 | 12:00 - 13:00 | Lunch break :hamburger:        |
 | 13:00 - 14:00 | Reflections on yesterdays work |
 | 14:00 - 15:00 | on Development of a Storyworld |
